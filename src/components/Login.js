@@ -138,7 +138,7 @@ import axios from "axios";
 import "./../assets/styles/Login.css";
 import {  FaRegUserCircle , FaEnvelope, FaLock } from "react-icons/fa";
 import { MdEmail, MdKey } from "react-icons/md";
-import { MdVisibility, MdVisibilityOff } from "react-icons/md";
+// import { MdVisibility, MdVisibilityOff } from "react-icons/md";
 import { FaEye,FaEyeSlash  } from "react-icons/fa";
 
 
